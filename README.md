@@ -1,5 +1,10 @@
 ## Welcome to BrandonXIANG Github.
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sorrycc/count.svg" />
+</p>
+
 I am a web developer with interesting ideas.
 
 Here is my blog [https://brandonxiang.vercel.app/](https://brandonxiang.vercel.app/);
