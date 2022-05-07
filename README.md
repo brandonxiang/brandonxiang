@@ -12,3 +12,5 @@ Here is my blog [https://brandonxiang.vercel.app/](https://brandonxiang.vercel.a
 Here is my tech presentation [https://brandonxiang.vercel.app/keynote](https://brandonxiang.vercel.app/keynote);
 
 Here is my Jianshu [https://www.jianshu.com/u/64467c788eb7](https://www.jianshu.com/u/64467c788eb7);
+
+Here is my Twitter [https://twitter.com/xwpisme](https://twitter.com/xwpisme)
