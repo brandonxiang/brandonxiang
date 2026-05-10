@@ -51,7 +51,3 @@ My most-starred active public source repositories:
 ## 🤝 Collaboration
 
 I’m interested in projects around mapping, frontend infrastructure, TypeScript tooling, and developer experience. If a project helps people build faster or understand spatial data better, I’m probably interested.
-
-<p align="center">
-  <img src="https://profile-counter.glitch.me/brandonxiang/count.svg" alt="Visitor count" />
-</p>
